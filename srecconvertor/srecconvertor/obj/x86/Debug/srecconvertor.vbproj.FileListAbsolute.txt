@@ -1,0 +1,13 @@
+C:\Users\Babur\documents\visual studio 2010\Projects\srecconvertor\srecconvertor\bin\Debug\srecconvertor.exe
+C:\Users\Babur\documents\visual studio 2010\Projects\srecconvertor\srecconvertor\bin\Debug\srecconvertor.pdb
+C:\Users\Babur\documents\visual studio 2010\Projects\srecconvertor\srecconvertor\bin\Debug\srecconvertor.xml
+C:\Users\Babur\documents\visual studio 2010\Projects\srecconvertor\srecconvertor\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Babur\documents\visual studio 2010\Projects\srecconvertor\srecconvertor\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Babur\documents\visual studio 2010\Projects\srecconvertor\srecconvertor\obj\x86\Debug\srecconvertor.vbproj.GenerateResource.Cache
+C:\Users\Babur\documents\visual studio 2010\Projects\srecconvertor\srecconvertor\obj\x86\Debug\srecconvertor.exe
+C:\Users\Babur\documents\visual studio 2010\Projects\srecconvertor\srecconvertor\obj\x86\Debug\srecconvertor.xml
+C:\Users\Babur\documents\visual studio 2010\Projects\srecconvertor\srecconvertor\obj\x86\Debug\srecconvertor.pdb
+C:\Users\Babur\Documents\Visual Studio 2010\Projects\srecconvertor\srecconvertor\bin\Debug\srecconvertor.exe.manifest
+C:\Users\Babur\Documents\Visual Studio 2010\Projects\srecconvertor\srecconvertor\bin\Debug\srecconvertor.application
+C:\Users\Babur\Documents\Visual Studio 2010\Projects\srecconvertor\srecconvertor\obj\x86\Debug\srecconvertor.exe.manifest
+C:\Users\Babur\Documents\Visual Studio 2010\Projects\srecconvertor\srecconvertor\obj\x86\Debug\srecconvertor.application
